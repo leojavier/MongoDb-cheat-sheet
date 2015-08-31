@@ -1,1 +1,15 @@
+
+##GEOspatial Index
+
+
+###To verify if mongo is runing anything on the background
+
+```sh
 ps wuax | grep mongo
+```
+
+Returns the list of process
+
+```sh
+kill processNumber
+```
